@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Queen, at White-Hall March xxiii, 1693/4 / by John Tyler ...</title>
+            <author>Tyler, John, d. 1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64073</idno>
+            <idno type="STC">Wing T3560</idno>
+            <idno type="STC">ESTC R20921</idno>
+            <idno type="EEBO-CITATION">12177820</idno>
+            <idno type="OCLC">ocm 12177820</idno>
+            <idno type="VID">55566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Queen, at White-Hall March xxiii, 1693/4 / by John Tyler ...</title>
+                  <author>Tyler, John, d. 1724.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren, for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Epistles of John, 1st, III, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:55566:1"/>
+            <pb facs="tcp:55566:1" rendition="simple:additions"/>
+            <p>THE Dean of <hi>Hereford</hi>'s SERMON Before the QUEEN, <hi>March</hi> xxiii. 1693/4.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:55566:2"/>
+            <pb facs="tcp:55566:2"/>
+            <p>A SERMON Preach'd before the QUEEN, AT WHITE-HALL, <hi>MARCH</hi> xxiii. 1693/4.</p>
+            <p>By <hi>JOHN TYLER,</hi> Dean of <hi>Hereford,</hi> and Chaplain in Ordinary to Their MA<g ref="char:EOLhyphen"/>JESTIES.</p>
+            <p>Publiſh'd by Her Majeſty's Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren,</hi> for <hi>Walter Kettilby,</hi> at the Biſhop's Head in St. <hi>Paul</hi>'s Church-Yard, MDCXCIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:55566:3"/>
+            <pb n="5" facs="tcp:55566:3"/>
+            <head>A SERMON Preach'd before the QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>1 JOHN iii. 3.</bibl>
+                  <p>And every man that hath this hope in him, purifieth himſelf, even as He is pure.</p>
+               </q>
+            </epigraph>
+            <p>THE Apoſtle having concluded the former Chapter with defining, who is a Child born of God, <hi>viz.</hi> Every one that doth Righteouſneſs, does begin this Chapter in ſetting forth the dignity of ſuch righteous Perſons. Next in ſhewing their future glory; And then the Ex<g ref="char:EOLhyphen"/>cellent Fruit, which the hope of this Glory does produce.</p>
+            <p>The Dignity of ſuch righteous Perſons is taught us in theſe words: <hi>Behold what manner of love the
+<pb n="6" facs="tcp:55566:4"/>Father hath beſtow'd upon us, that we ſhould be call'd the Sons of God,</hi> v. 1. What an honour was it to <hi>Moſes,</hi> a poor expoſed Child, to be adopted by <hi>Pharaoh</hi>'s Daughter, and treated as her Son in the Court of <hi>Aegypt?</hi> Yet little was that, or any other Earthly Honour, in compariſon of that, whereby the Moſt High God is pleaſed to call Sinful and Mortal Men his Sons, to breed them up in his Family, and beſtow on them the marks of his Fa<g ref="char:EOLhyphen"/>therly and Fathomleſs Love. 'Tis true (ſaith the Apoſtle) <hi>the World knoweth us not, becauſe it knew him not.</hi> Men that neither know nor fear God are not like to honour his Servants, yet is not our fe<g ref="char:EOLhyphen"/>licity and honour the leſs for that. Nor will our Condition ſtop long here. There is ſomewhat better intended us by our Heavenly Father, which will make our Relation and Dignity conſpicuous. Hereupon he proceeds next to ſhew their future Glory in the ſecond Verſe: <hi>Beloved now are we the Sons of God, and it doth not yet appear what we ſhall be. But we know that when he ſhall appear, we ſhall be like him, for we ſhall ſee him as he is.</hi> Then follow the words of my Text, <hi>And every man that hath this hope in him,</hi> &amp;c. Where we ſee, that the hope mention'd in the Text relates to the foregoing words, and is not to be well underſtood without a more particular conſideration of them.</p>
+            <pb n="7" facs="tcp:55566:4"/>
+            <p> 
+               <hi>Beloved, now are we the Sons of God,</hi> &amp;c. The ſenſe hereof is: That we are now indeed in the ſtate of our Pilgrimage, ſubject to a thouſand Troubles and Misfortunes, and ſo in a State, that ſeems not ſo ſutable to the glory of the Sons of God. But this State cannot laſt always, we are now the Sons of God, and ſhall therefore be re<g ref="char:EOLhyphen"/>ceiv'd into our Father's Houſe and Family, with all the marks of Honour becoming ſo great a King and Father. What we ſhall be hereafter as to the particulars, is not yet revealed. But this we are ſure of in general, That we ſhall become like to God, and therefore nothing, we can deſire, will be wanting to us. Nothing can be conceived more perfect and bleſſed than God. If we ſhall be like him, our Bleſſedneſs muſt ſurpaſs all <hi>that Eye has ſeen, or Ear heard, or ever enter'd into Man's Heart to conceive.</hi> To conceive any thing equal to him is Blaſphemy and Idolatry; But we ſhall be like him, not only in Holineſs, but in his Eter<g ref="char:EOLhyphen"/>nity and Bleſſedneſs.</p>
+            <p>And hereof, the Apoſtle ſubjoins the reaſon. <hi>For we ſhall ſee him as he is.</hi> Though there's nothing that does exiſt neceſſarily and is Soveraignly perfect but God, yet is there nothing we perceive with more imperfection and confuſion. This happens not through any defect in him but in us; through
+<pb n="8" facs="tcp:55566:5"/>our weakneſs, and the immenſity of his bound<g ref="char:EOLhyphen"/>leſs Glory. The Sun of all viſible objects, through the brightneſs of its Beams, is the moſt conſpicuous, yet is there nothing our weak Eyes can leſs ſtedfaſtly behold; No marvel then if that Majeſty that ſhines with ſuch matchleſs and endleſs Perfections and Glory, is ſo im<g ref="char:EOLhyphen"/>perfectly beheld by the weak Eye of our Under<g ref="char:EOLhyphen"/>ſtanding. Whence the Apoſtle ſays, <hi>We now ſee through a Glaſs darkly.</hi> We ſee not ſo much the things themſelves as the glimpſes and images of them, or as others render <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, we perceive as in a Riddle, the ſolution whereof nothing but the future perfect Age can give us.
+<note place="margin">1 Cor. 13.12.</note> 
+               <hi>But we ſhall ſee him as he is.</hi> This is but a plain con<g ref="char:EOLhyphen"/>ſequence of God's adopting us for his Children; for how is it poſſible, that Children ſhould be for ever denied the moſt ſweet and deſirable ſight and preſence of their Father, that they ſhould never behold him as he truly is in his own nature. <hi>Moſes</hi> after all the moſt magnificent Symbols of the Di<g ref="char:EOLhyphen"/>vine Preſence ſeem'd deſirous to ſee God as he was,
+<note place="margin">Ex. 33. v. 18, 20.</note> when he thus addreſt to him: <hi>I beſeech thee ſhew me thy glory.</hi> But was Anſwered: <hi>Thou canſt not ſee my face, for there ſhall no man ſee me and live.</hi> Whence the Hebrew Maſters inferred, That God was not to be ſeen ſuch as he was in
+<pb n="9" facs="tcp:55566:5"/>his glorious infinite nature in this Life, but this Viſion was reſerv'd to the next; which the Apo<g ref="char:EOLhyphen"/>ſtle that was rapt into the third Heaven, approves of in ſaying, <hi>We ſhall then ſee face to face,</hi>
+               <note place="margin">1 Cor. 13.12.</note> cloſely and clearly, and <hi>that we ſhall know, even as alſo we are known.</hi>
+            </p>
+            <p>Certainly ſuch a Viſion or Knowledge will not be a bare and ineffectual Speculation, but one ſo tranſ<g ref="char:EOLhyphen"/>porting and transforming, as will change us into the ſame Image from Glory to Glory, whereof <hi>Moſes</hi> was a Figure, who being exalted to a kind of converſe with God, though but by mediation of an Angel repreſenting his Majeſtick Preſence, had his Face enlighten'd with ſo much Luſtre and Glory, that it dazled their Eyes that beheld it, and made them afraid to come nigh him.</p>
+            <p>We could never ſee God as he is, did he not firſt communicate an Immortality to our Nature, and qualify our Souls by proportionate Degrees of Purity and Holineſs. To ſee God then as he is, is to be prefer'd to a cloſe Union with him, which carries with it all the bliſsful Acts of Love and Praiſe, of Joy and Tranſport, and every thing elſe that can conſummate our Happineſs. We may gather what will be the bleſſed Effects of this Vi<g ref="char:EOLhyphen"/>ſion, when we remark what great Pleaſures God hath founded only on meer Bodies, and Motion,
+<pb n="10" facs="tcp:55566:6"/>and upon the fitneſs even of mean Faculties and their Objects. As for Example. Some Muſical Inſtruments are but a little Wood, Guts, and Hair, and yet are theſe able to affect the Organ of Hearing, in ſuch wiſe, that very raviſhing Streins of exquiſite Harmony reſult thence. If ſuch vile materials are able to afford, by order of the great God, ſuch fine Muſick and Entertain<g ref="char:EOLhyphen"/>ment, what muſt be the tranſports of them, whoſe Happineſs is founded on Almighty God's own Eternity, Infinite Excellency and Glory? If the little drops, ſcatter'd in the Creation, are able ſo much to delight Men, what will be their Bleſſed<g ref="char:EOLhyphen"/>neſs, that are admitted to the Ocean of Infinite Goodneſs. If ſhadows give ſo much content, what will the ſubſtance and truth it ſelf do! Then muſt all our inquiries and purſuits after good be at an end, when we ſee or (which is the ſame) poſſeſs cloſely the Soveraign good; for why ſhould they ſearch after any thing elſe, when God hides none of his Beauty and Goodneſs, but ſhews, <hi>i. e.</hi> com<g ref="char:EOLhyphen"/>municates himſelf and his Glory, to Souls Sancti<g ref="char:EOLhyphen"/>fied and prepared before hand for them. This then that is call'd ſeeing God's Face, or ſeeing Him as he is, is the conſummation of all Bleſſedneſs, without which, though we were Immortal, and had all the adjuncts of Immortality, there would
+<pb n="11" facs="tcp:55566:6"/>be too much ſtill wanting to our Bleſſedneſs; and we ſhould remain unſatisfied, like <hi>Abſalom,</hi> who, though recall'd from Baniſhment, and permitted to dwell in <hi>Jeruſalem;</hi> was ſtill reſtleſs and unea<g ref="char:EOLhyphen"/>ſie, becauſe he ſaw not the King's Face. This then is the Glory of Angels in Heaven, That they always behold the Face of our Father; and this is Glory promiſed to the faithful on Earth, That they ſhall herein be made like to the Angels; be<g ref="char:EOLhyphen"/>coming Righteous themſelves, they ſhall ſee him that is Love, and Light, and Purity; and ſeeing him in his fathomleſs Glory, ſhall be, by ſo ra<g ref="char:EOLhyphen"/>viſhing a Sight and Fruition, rendred themſelves Glorious. This is what God does deſign and pro<g ref="char:EOLhyphen"/>miſe all his obedient Servants, what they long, and pray, and wait for.</p>
+            <p>The Apoſtle next teaches in the Text, The ex<g ref="char:EOLhyphen"/>cellent Effect, which the Proſpect and Hope of ſeeing God does work in men. <hi>And every man that hath this hope, purifieth himſelf, even as He is pure.</hi> The Effect of this <hi>Hope</hi> is <hi>Self-Purification.</hi>
+            </p>
+            <p>In Relation to this Effect, we have <hi>Two Things</hi> laid down,
+<list>
+                  <item>I. <hi>First,</hi> The Certainty of it; And,</item>
+                  <item>II. <hi>Next,</hi> The Nature thereof explained.</item>
+               </list>
+            </p>
+            <p n="1">
+               <pb n="12" facs="tcp:55566:7"/> I. We have the Certainty of it, explained in the Univerſality of the Subject, <hi>Every man, that hath this hope</hi> (no one excepted) <hi>doth purifie himſelf;</hi> this Cauſe never fails of producing this Effect.</p>
+            <p n="2">II. The Nature and Explanation of this Effect, <hi>Even as he is pure.</hi>
+            </p>
+            <p>This <hi>Self-purification,</hi> is an Imitation of God's Ho<g ref="char:EOLhyphen"/>lineſs; practiſing after the moſt excellent Copy: Some indeed will have the Particle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> render<g ref="char:EOLhyphen"/>ed cauſally, <hi>becauſe he is pure.</hi> But our Tranſla<g ref="char:EOLhyphen"/>tours have render'd the Word in its common Sence, as a term of Proportion or Similitude; importing, That ſuch as hope to ſee God as he is, do begin on Earth <hi>to be holy as he is holy;</hi> as the aſſured and only Method, to attain the Supreme Glory they look for.</p>
+            <p>My Meaning is,</p>
+            <p n="1">1. To explain the <hi>Purifying</hi> ſpoken of in the Text.</p>
+            <p n="2">2. To ſhew that this does certainly attend a Divine <hi>Hope.</hi>
+            </p>
+            <p n="3">3. To deduce ſome Inferences.</p>
+            <p>I have already inſiſted on the <hi>Hope</hi> mentioned in the Text, on occaſion of the Verſe foregoing, to which it refers.</p>
+            <pb n="13" facs="tcp:55566:7"/>
+            <p> To <hi>purifie ones ſelf,</hi> is to cleanſe ones ſelf from ones former ſinful Courſes. Sin has Two perni<g ref="char:EOLhyphen"/>cious Effects on him that is abandoned to it.</p>
+            <p>
+               <hi>Firſt,</hi> It makes him appear a Criminal before God; ſubject to his Wrath for Tranſgreſſion of his Laws.</p>
+            <p>
+               <hi>Next,</hi> It diſhonours and defiles the Soul, deſtroy<g ref="char:EOLhyphen"/>ing that Force and Beauty, wherein conſiſt its Ex<g ref="char:EOLhyphen"/>cellency, and the Image of God. Some Sins indeed, as Adultery, Fornication, Senſuality and Intem<g ref="char:EOLhyphen"/>perance, are more eſpecially termed Uncleanneſs; filthy and reproachful Luſts; directly contrary to that Honour and Sanctification, wherewith every Man ought <hi>to poſſeſs his Veſſel</hi> or Body. Theſe Sins are the Pollution of that which ſhould be the Temple of the Holy Ghoſt by his Deſignment, <hi>who hath not called us to <g ref="char:V">Ʋ</g>ncleanneſs, but unto Holi<g ref="char:EOLhyphen"/>neſs.</hi> But there is not only a Filthineſs of the Fleſh, but of the Spirit too; ſuch as Pride, Faction, En<g ref="char:EOLhyphen"/>vy, Malice, and the like, which pollute the Soul. All theſe evil Deeds and Affections are as ſpots and films in the eye, which incapacitate men for the Sight and Injoyment of God. And that Change, which the Chriſtian Faith and Hope makes in men, when they cleanſe themſelves from all this Filthi<g ref="char:EOLhyphen"/>neſs of Fleſh and Spirit, is our Purification.</p>
+            <pb n="14" facs="tcp:55566:8"/>
+            <p> Nor are we to take any Offence at theſe words of purifying ones ſelf, as if more were attributed to men than is fit: for ſometimes the ſame effect is aſcribed to God, and ſometimes to man, ſubor<g ref="char:EOLhyphen"/>dinate to God's Grace. 'Tis by the efficacy of God's Spirit, the Faith and Hope, the Word works in Men, of <hi>ſeeing God;</hi> that ſuch as before were Slaves of the World, the Fleſh, and the De<g ref="char:EOLhyphen"/>vil, do purge themſelves from their former Defile<g ref="char:EOLhyphen"/>ments, and being redeemed from their vain Con<g ref="char:EOLhyphen"/>verſation, live no longer to themſelves and their former Luſts, but to him, who has wrought in them this happy Change. They do all which <hi>God</hi> requires on their part, to purifie themſelves; <hi>ceaſing to do evil,</hi> and <hi>learning to do well;</hi> employ<g ref="char:EOLhyphen"/>ing their utmoſt and effectual endeavours, <hi>to live ſoberly, righteouſly, and godly.</hi>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> The Purity effected by the force of this Divine <hi>Hope</hi> is not external, ritual or imputa<g ref="char:EOLhyphen"/>tive only, but a real Sanctity like that of <hi>God</hi>'s.</p>
+            <p>'Tis true in this, as in all other Perfections, <hi>God</hi> is infinite and peerleſs; nevertheleſs by his Almighty Power and Grace operating on Men, they may reſemble him in his Purity; having their Hearts and Hands cleanſed by his Word and Spirit. And that appears,</p>
+            <p n="2">
+               <pb n="15" facs="tcp:55566:8"/> 2. By what is affirm'd in the Text. <hi>Every man that hath this hope,</hi> &amp;c. Whoſoever is endow'd with <hi>this Hope,</hi> does make and keep himſelf clean from all voluntary defilement, and endeavours by the Grace of Chriſt to waſh away the corruption of his imperfect and ſinful nature. This Chriſtian Hope of the Bleſſed ſight or enjoyment of God, and Self-Purification, are not to be divided aſun<g ref="char:EOLhyphen"/>der. In the Verſe before the Text, the Apoſtle ſaid, <hi>That it does not yet appear what we ſhall be.</hi> Whence ſome body might inferr, That the ſtudy of true (though imperfect) Sanctity, would be cold, whilſt our Happineſs appears not. No ſaith St. <hi>John,</hi> Our Hope of ſo happy a State ſufficeth for this effect. Though we ſee not God, if we Hope to do it, 'tis not poſſible but this muſt ſtir us up to follow Holineſs, without which we are aſſured we can never ſee him. And hereof I offer three Reaſons.</p>
+            <p n="1">1. He that really hopes to attain any end, is of neceſſity diſpoſed to take thoſe legitimate and proper methods and courſes, without which he ſees his end is not poſſible to be obtained. He that hopes to ſee <hi>Jeruſalem,</hi> muſt bend his courſe Eaſt<g ref="char:EOLhyphen"/>ward, and put himſelf into the way he believes will bring him thither, otherwiſe he does but tri<g ref="char:EOLhyphen"/>fle, and can never be ſaid truly to hope it. In like
+<pb n="16" facs="tcp:55566:9"/>manner he that hopes to ſee God, becauſe he is well aſſur'd, this can never be effected, by any courſe, but by making God his Pattern, and his Word, the meaſure of his Actions, he hates all falſe ways, and puts himſelf chearfully in that, which will bring him to the accompliſhment of his hope and wiſhes. Let a Mans Prayers or Profeſſi<g ref="char:EOLhyphen"/>on be what they will, if he does not purify him<g ref="char:EOLhyphen"/>ſelf, he hopes not for the fruition of God, but ſomewhat elſe on Earth. He plays the Hypocrite, and deſigns only to be ſeen of Men, the eaſieſt to compaſs the booty he covets. He may ſeem to ſoar high as an Eagle, but his Eyes are faſten'd on ſome prey that lies on the ground. He that hath the Hope in the Text, does not content himſelf to cleanſe the outſide, but the inſide alſo, becauſe he is well aſſur'd that Hypocriſy does abſolutely diſ<g ref="char:EOLhyphen"/>able him, 'tis purity of heart alone that fits him for the Viſion of God.</p>
+            <p n="2">2. This Hope has for its object a good ſo ſublime and excellent, that one cannot poſſibly de<g ref="char:EOLhyphen"/>ſpiſe it, but deſire it rather ſo vehemently, as not to omit any thing, particularly purifying ones ſelf, by which 'tis attained. A Life for ever ſpent in the ſight and preſence of Almighty God, is ſuch and ſo great a good, that we cannot conceive, ei<g ref="char:EOLhyphen"/>ther how God himſelf can give, or Man receive
+<pb n="17" facs="tcp:55566:9"/>any greater or better: and therefore when thought attainable by any one, it cannot have leſs force, than to move him to love and purſue it, with in<g ref="char:EOLhyphen"/>tenſe and vehement Endeavours; and not only to ſlight all the Offers of the World that would turn him aſide as filly Trifles, but even to hate and fear them as moſt deadly Traps and Snares. He knows there's no ſuch trouble in purifying himſelf, as is any ways to be thought of, or compared with ſo vaſt and eſſential a Good. If Men, when they hope thereby to attain the tranſitory Goods and Delights of this World, put themſelves forward to do or ſuffer any thing, whereby they may com<g ref="char:EOLhyphen"/>paſs them; ſurely they that ſee ſomewhat better than the whole World to be had, namely, the In<g ref="char:EOLhyphen"/>joyment of its Maker, will find no ſuch Mortifi<g ref="char:EOLhyphen"/>cation in purifying themſelves, in order to ſo ſo<g ref="char:EOLhyphen"/>vereign a Happineſs.</p>
+            <p n="3">3. This Hope does eaſily vanquiſh all Tem<g ref="char:EOLhyphen"/>ptations to Defilement; for this Hope does ele<g ref="char:EOLhyphen"/>vate the Soul to things above; and makes that things on Earth, which are the only Baits to pol<g ref="char:EOLhyphen"/>lute the Soul, ſeem but mean and ordinary; in ſuch wiſe, that the Pleaſure that flows from them is in compariſon inconſiderable. But where the things on Earth appear in a manner ſo deſpicable, that the Heart is no ways captivated by them, there's little or no occaſion or temptation to pol<g ref="char:EOLhyphen"/>lute
+<pb n="18" facs="tcp:55566:10"/>either Body or Soul. Sin is of it ſelf ſo baſe and filthy, that were it not ſweetned by theſe earthly things, it could not eaſily entice us; where then its Sweets are little ſet by, it will look not only little tempting, but rather hateful and abo<g ref="char:EOLhyphen"/>minable.</p>
+            <p>I come now to the Application, and infer,</p>
+            <p n="1">(1.) Mankind is infinitely beholden to the Grace of Jeſus Chriſt the Prince of Righteouſ<g ref="char:EOLhyphen"/>neſs, for reſcuing them from the filth and drud<g ref="char:EOLhyphen"/>gery of Sin into a State of Liberty and Holineſs, by the Proſpect and Promiſe he has given Men of reformed Manners, to be raiſed to the Fruition of God, our ſupream Happineſs.</p>
+            <p>'Tis true, the ſuperlative <hi>Greatneſs</hi> and <hi>Goodneſs</hi> of God do recommend Him as the Object of our deareſt and higheſt Hopes. 'Twas the Conſide<g ref="char:EOLhyphen"/>ration hereof, that moved his ancient Servants, as well before as under the Law, when they had no ſuch clear and diſtinct Promiſe thereof, to expect a Bleſſed and Eternal Life from his Infinite Love and Liberality. This made them look beyond all the poor Enjoyments of this momentany Life, for a City that had Foundations. Nor indeed could Wiſe and Holy Men ever think otherwiſe, but as He was the greateſt and beſt of Maſters, ſo would He magnificently reward his affectionate and dili<g ref="char:EOLhyphen"/>gent
+<pb n="19" facs="tcp:55566:10"/>Servants; it being the firſt Point in Religi<g ref="char:EOLhyphen"/>on, <hi>To believe there is a God;</hi> and the next, <hi>That He is a Rewarder of thoſe that diligently ſerve Him.</hi> But 'twas God's Pleaſure to have this revealed and declared more plainly by his <hi>Bleſſed Son;</hi> in whom he has promiſed us Eternal Life, and ſealed alſo that Promiſe by his <hi>Divine Life</hi> and <hi>Miracles,</hi> his <hi>Pre<g ref="char:EOLhyphen"/>cious Death,</hi> his <hi>Glorious Reſurrection,</hi> and <hi>Trium<g ref="char:EOLhyphen"/>phant Aſcenſion into Heaven.</hi> Hereby <hi>God</hi> begets us to a moſt lively Hope, and ſo gives us the moſt effectual Motive to Purifie our ſelves.</p>
+            <p n="2">(2.) This ſerves to convince us, that the Paths of Piety are not ſo rough and difficult as they are ima<g ref="char:EOLhyphen"/>gined to be by Men deſtitute of this Chriſtian Hope. It muſt be granted, that to purifie ones ſelf is a very difficult, becauſe ungrateful Work to ſuch Men. To part with their impure Courſes, ſeems all one as to pluck out their Eyes, to cut off their Right-hands and caſt them away. To lay aſide their Pride, Covetouſneſs, Conceited<g ref="char:EOLhyphen"/>neſs, Envy and Malice, is to put off their cor<g ref="char:EOLhyphen"/>rupt Natures, which is not to be done without new Principles, Thoughts and Affections, with which they are not yet acquainted. But what ſeems almoſt impoſſible to theſe, is not only very poſſi<g ref="char:EOLhyphen"/>ble, but even delightful to Men animated with Hope of God's Sight and Preſence. The hope of a fair and plentiful Harveſt, is of force enough
+<pb n="20" facs="tcp:55566:11"/>to make the Country-man go through all the La<g ref="char:EOLhyphen"/>bour and Travail of Husbandry, and that with Eagerneſs and Content. Nor do the Fatigues of War ſeem inſuperable, but ſupportable and eaſie enough, where are the well-grounded Hopes of Victory and laſting Advantages. Surely no Man that underſtands what is meant by <hi>God,</hi> but would think, I will not ſay the Works of Chriſtian Pi<g ref="char:EOLhyphen"/>ety, but a thouſand Deaths, very eaſie and deſirable, if thereby one might be for ever admitted to his Sight, <hi>in whoſe preſence is life, and at whoſe right hand are pleaſures for evermore.</hi> How exceeding pleaſant then muſt the Courſe of his Life be, who reſts well ſatisfied, that he ſhall be thus ad<g ref="char:EOLhyphen"/>mitted, and that upon the eaſie and honourable Conditions, of purifying himſelf from his vicious Courſes, the very Blots and Reproaches of his Nature. This very Hope makes <hi>the pure in heart</hi> more than amends for all the Filthineſs it lays aſide, were it but in the innocent and unfading Delights it here produces.</p>
+            <p n="3">(3.) Why may not the Aſſurance of this Hope be inferred from its Divine Effects? If this Hope is of force to purifie us, ſurely 'tis of God, and there<g ref="char:EOLhyphen"/>fore can never be confounded. <hi>Truth and Goodneſs</hi> (ſays one) <hi>differ but as the Seal and its Impreſſion.</hi> If then the Impreſſion be Goodneſs in its Excellency, the Purification and Exaltation of our Nature; the
+<pb n="21" facs="tcp:55566:11"/>Seal muſt be no other than Truth. If there be any thing on Earth, worthy the Eye of God, his Fa<g ref="char:EOLhyphen"/>vour and Acceptance, it can be no other than what is termed in the Text, the purifying ones ſelf. This is the beſt and nobleſt uſe of our Wills and Free<g ref="char:EOLhyphen"/>dom, the renewing of the Divine Image, and the higheſt Accompliſhment of our Nature. If then that Hope which raiſes us to the greateſt Perfe<g ref="char:EOLhyphen"/>ction and Excellency, whereof we are capa<g ref="char:EOLhyphen"/>ble, may be founded on Deceit and Falſhood; then may an <hi>evil Tree bring forth</hi> the beſt <hi>fruit,</hi> and <hi>men gather grapes of thorns, and figs of thiſtles.</hi> Theſe Hopes then are warranted by him, who cannot mock or deceive us. And hence 'tis that as our Hopes are ſtronger; ſo are we more careful in purifying our ſelves: ſo likewiſe the more careful we are in purifying our ſelves, the more chearful and vigorous will our Hopes be.</p>
+            <p n="4">(4.) We muſt either ſet a purifying our ſelves, or lay by our hopes of a happy Immortality in the Viſion of God. This Bleſſed fight and our purify<g ref="char:EOLhyphen"/>ing are annex'd inſeparably. He that hath this hope, doth purify himſelf; he that doth not pu<g ref="char:EOLhyphen"/>rify himſelf, doth in effect renounce all his hopes, and makes it impoſſible for him ever to ſee God; but he muſt be driven from his preſence, and all that is defirable for ever.</p>
+            <p>Behold the choice is now before us. We muſt
+<pb n="22" facs="tcp:55566:12"/>either renounce our Hopes or our Vices. And if we part with theſe ſure and certain, theſe ſweet and Heavenly Hopes, what is it we take up with in lieu of them? Is it the preſent gains and plea<g ref="char:EOLhyphen"/>ſures of Sin? and that too, only becauſe they are preſent? Let us never forget, that what is now preſent, will not continue ſo long, for this World and the Luſts thereof, will paſs away as a ſhadow; but what is now future, will be ſhortly preſent with us, and continue ſo too for ever.</p>
+            <p>If then poor and momentany things look ſo con<g ref="char:EOLhyphen"/>ſiderable and tempting, only becauſe they are now preſent, what a dream and deluſion will they ap<g ref="char:EOLhyphen"/>pear to us, when they are gone. And how tran<g ref="char:EOLhyphen"/>ſcendently glorious will the fight of God be, when being in it ſelf, the height of all poſſible Bleſſed<g ref="char:EOLhyphen"/>neſs, that becomes preſent alſo, and that a Joy and Glory too, never to be taken from us. Surely he makes a choice like a Child or Fool, that pre<g ref="char:EOLhyphen"/>fers a few Comfits or trifles in hand, before the reverſion of a great and ample Inheritance. And he makes one far more fooliſh, who for any tran<g ref="char:EOLhyphen"/>ſitory ſatisfaction, parts with his Intereſt, in an Inheritance, not only ſuperlatively excellent in it ſelf, but which too never fadeth away. Such a one outdoes <hi>Eſau</hi> in his improvident as well as prophane impatience, who for one Diſh of meat ſold his Birthright. The object of our hope is
+<pb n="23" facs="tcp:55566:12"/>future, but the hope it ſelf is preſent. This very Hope far ſurpaſſeth all our other preſent Poſſeſſi<g ref="char:EOLhyphen"/>ons. 'Tis the ſweeteſt part of our Proſperity; 'Tis an Anchor in all our Adverſity. In ſhort, it yields a better income of Content and Peace, than all the preſent World is able to do. According to what the Apoſtle teaches us, when ſpeaking of God, he ſays, <hi>Whom having not ſeen ye love, in whom though now you ſee him, not believing, ye rejoice with joy unſpeakable and full of Glory,</hi> 1 Peter 1.8.</p>
+            <p>Let's never ſuffer this fair Hope to be torn from us; let's never think any thing too much to do or ſuffer to ſecure and increaſe it. Let it be our daily work in the ſtrength thereof to purify our ſelves; and then doubtleſs, we that ſee darkly, ſhall ſee Face to Face, and our Hope will be ſwallowed up in the Beatific Viſion.</p>
+            <p>I conclude all in the Words of a Collect of Our Church:</p>
+            <epigraph>
+               <q>
+                  <hi>God of his Infinite Mercy grant, that by Patience and Comfort of his Holy Word, we may em<g ref="char:EOLhyphen"/>brace and ever hold faſt the bleſſed Hope of Everlaſting Life, which he has given us in his Son Jeſus Christ. To whom,</hi> &amp;c.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:55566:13" rendition="simple:additions"/>
+            <head>Books Printed for <hi>Walter Kettilby</hi> at the Biſhop's-Head in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <p>THE Archbiſhop of <hi>York</hi>'s Thankſgiving Sermon before the King and Queen at <hi>Whitehall, Nov.</hi> 12. 1693.</p>
+            <p>The Archbiſhop of <hi>York</hi>'s Sermon, <hi>About the Government of the Thoughts,</hi> before the King and Queen at <hi>Whitehall, March</hi> 4. 1693/4.</p>
+            <p>Dr. <hi>Hooper</hi>'s Sermon before the King and Queen at <hi>White<g ref="char:EOLhyphen"/>hall, Jan.</hi> 14. 1693/4.</p>
+            <p>Mr. <hi>Young</hi>'s Sermon at <hi>Salisbury July</hi> 30. 1693. Concern<g ref="char:EOLhyphen"/>ing the Wiſdom of Fearing God. Publiſhed at the Requeſt of the Lawyers.</p>
+            <p>The Intereſt of <hi>England</hi> Conſider'd, in an Eſſay upon Wooll, with ſome Remarks upon the Conceptions of Sir <hi>Jo<g ref="char:EOLhyphen"/>ſiah Child.</hi>
+            </p>
+            <p>The true Conduct of Perſons of Quality. Tranſlated out of French.</p>
+            <p>A Treatiſe relating to the Worſhip of God, divided into Six Sections. By <hi>John Templer,</hi> D. D.</p>
+            <p>A Diſcourſe concerning the Nature of Man, both in his Natural and Political Capacity: With an Examination of ſome of Mr. <hi>Hobb</hi>'s Opinions, relating thereunto. By <hi>James Lowde,</hi> Rector of <hi>Setrington</hi> in <hi>Yorkſhire.</hi>
+            </p>
+            <p>T. Burnetii <hi>Archaeologia Philoſophica, ſive Doctrina Antiqua de Rerum Originibus,</hi> 4to.</p>
+            <p>The Faith and Practice of a Church of <hi>England</hi> Man. The Fourth Edition, 12.</p>
+            <pb facs="tcp:55566:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
